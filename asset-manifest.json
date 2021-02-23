@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jariyatum/static/css/main.3d47d651.chunk.css",
+    "main.js": "/jariyatum/static/js/main.109bfe3f.chunk.js",
+    "main.js.map": "/jariyatum/static/js/main.109bfe3f.chunk.js.map",
+    "runtime-main.js": "/jariyatum/static/js/runtime-main.a964f52c.js",
+    "runtime-main.js.map": "/jariyatum/static/js/runtime-main.a964f52c.js.map",
+    "static/js/2.94c302c1.chunk.js": "/jariyatum/static/js/2.94c302c1.chunk.js",
+    "static/js/2.94c302c1.chunk.js.map": "/jariyatum/static/js/2.94c302c1.chunk.js.map",
+    "static/js/3.05d0ff5e.chunk.js": "/jariyatum/static/js/3.05d0ff5e.chunk.js",
+    "static/js/3.05d0ff5e.chunk.js.map": "/jariyatum/static/js/3.05d0ff5e.chunk.js.map",
+    "index.html": "/jariyatum/index.html",
+    "static/css/main.3d47d651.chunk.css.map": "/jariyatum/static/css/main.3d47d651.chunk.css.map",
+    "static/js/2.94c302c1.chunk.js.LICENSE.txt": "/jariyatum/static/js/2.94c302c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a964f52c.js",
+    "static/js/2.94c302c1.chunk.js",
+    "static/css/main.3d47d651.chunk.css",
+    "static/js/main.109bfe3f.chunk.js"
+  ]
+}
